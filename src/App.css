@@ -79,6 +79,8 @@ body {
   height: 100vh;
   min-width: 200px;
 }
+.fs-4{
+  z-index:2;
 
 .msg-css {
   margin: 260px 0;
