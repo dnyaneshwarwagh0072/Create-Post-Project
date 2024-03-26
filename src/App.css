@@ -78,9 +78,14 @@ body {
   position: fixed;
   height: 100vh;
   min-width: 200px;
+  z-index: 2;
 }
-.fs-4{
-  z-index:2;
+
+  .fs-4{
+  margin-left:-40px;
+  padding-left: -10%;
+}
+
 
 .msg-css {
   margin: 260px 0;
